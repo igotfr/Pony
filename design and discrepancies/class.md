@@ -9,8 +9,5 @@ class Point
 
 ```pony
 class Point
-  var x: F64
-  var y: F64
-
   new create(var this.x: F64, var this.y: F64)
 ```
