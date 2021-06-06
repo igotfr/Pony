@@ -1,3 +1,4 @@
+https://github.com/ponylang/rfcs/issues/187
 ```pony
 class Point
   var x: F64
