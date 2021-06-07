@@ -1,3 +1,7 @@
+operation | Pony | Math
+--------- | ---- | -----
+x / 0 | 0 | ∞
+
 ## Arithmetic operations between real numbers and infinity
 
 operation | Pony | Math
