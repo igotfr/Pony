@@ -22,8 +22,13 @@ operation | Pony | Math
 
 ## Undefineds
 0 * ∞
+
 0 * -∞
+
 ∞ - ∞
+
 ±∞ / ±∞
+
 (±∞) ^ 0
+
 1 ^ ±∞
